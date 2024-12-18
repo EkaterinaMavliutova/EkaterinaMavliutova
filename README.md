@@ -9,7 +9,7 @@
   - **[Task manager](https://github.com/EkaterinaMavliutova/Task_manager)**: wrote end-to-end tests for a task management system that uses a Kanban board to visualize workflow. `JavaScript`, additional libraries: `Playwright`.
 </details>
 
-<details>
+<details open="true">
   <summary>💻Test assignments:</summary>
 
   - **[AppMagic](https://github.com/EkaterinaMavliutova/AppMagic_test_assignment_ts)**: e2e testing (TypeScript + Playwright)
