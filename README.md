@@ -18,4 +18,4 @@
 📫 How to reach me:
 - E-mail: [akumaaya@gmail.com](akumaaya@gmail.com)
 - Telegram: [@curry_kate](https://telegram.me/curry_kate)
-- LinkedIn: [https://www.linkedin.com/in/ekaterina-mavliutova-32334891/](https://www.linkedin.com/in/ekaterina-mavliutova-32334891/)
+- LinkedIn: [https://www.linkedin.com/in/ekaterinamavliutova/](https://www.linkedin.com/in/ekaterinamavliutova/)
