@@ -1,5 +1,5 @@
 ## Hello 👋
-### I'm an ex system analyst who's starting a journey into test automation👩‍💻
+### I'm a systems analyst with a passion for JavaScript and an interest in test automation👩‍💻
 <details open="true">
   <summary>📚Educational projects:</summary>
   
